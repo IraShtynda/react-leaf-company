@@ -1,0 +1,41 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 86px;
+}
+
+.logo {
+    font-size: 32px;
+    line-height: 46px;
+}
+
+.navigation-item {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--title-color);
+}
+
+.navigation-item:hover {
+    color: var(--brand-color);
+}
+
+.socials {
+    display: flex;
+    gap: 15px
+}
+
+.socials-item svg {
+    color: var(--title-color);
+    width: 15px;
+    height: 15px;
+    padding: 7px;
+    border: 1px solid var(--title-color);
+}
+
+.socials-item svg:hover {
+    color: var(--background-color);
+    background-color: var(--title-color);
+}

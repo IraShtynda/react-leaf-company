@@ -1,0 +1,17 @@
+.card {
+    text-align: center;
+    background-color: var(--background-card);
+    padding: 40px 30px;
+}
+
+.card-title {
+    font-size: 26px;
+    line-height: 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-description {
+    font-size: 17px;
+    line-height: 32px;
+}

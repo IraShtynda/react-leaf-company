@@ -1,14 +1,20 @@
+import React from 'react';
 import './App.css';
-import Banner from './Banner/Banner';
 import Header from './Header/Header';
+import Services from './Services/Services';
+import Contacts from './Contacts/Contacts';
 
-function App() {
-  return (
-    <div >
-      <Header />
-      <Banner />
-    </div>
-  );
+class App extends React.Component {
+
+  render() {
+    return (
+      <div>
+        <Header />
+        <Services />
+        <Contacts />
+      </div>
+    );
+  }
 }
 
 export default App;

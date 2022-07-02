@@ -1,38 +1,73 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;600;700&family=Istok+Web:wght@400;700&display=swap');
+
+:root {
+  font-family: 'Istok Web', sans-serif;
+  --title-font-family: 'Asap', sans-serif;
+  --background-color: #111111;
+  --background-bottom-color: #141414;
+  --background-card: #1B1B1B;
+  --title-color: #FFFFFF;
+  --subtitle-color: #D8D8D8;
+  --text-color: #676767;
+  --brand-color: #2252f6;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
+img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 40px;
+}
+
+h1,
+h2,
+h3,
+h4,
+.logo {
+  font-family: var(--title-font-family);
+  color: var(--title-color);
+  font-weight: 700;
+}
+
+p {
+  font-size: 19px;
+  font-weight: 400px;
+  line-height: 26px;
+}
+
+.button {
+  padding: 16px 25px;
+  margin: 55px 10px 0;
+  font-family: var(--title-font-family);
+  font-size: 15px;
+  font-weight: 400;
+  color: var(--title-color);
+}
+
+.button:hover {
+  background-color: var(--title-color);
+  border: 3px solid var(--title-color);
+  color: var(--background-color);
 }

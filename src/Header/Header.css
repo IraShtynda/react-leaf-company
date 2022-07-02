@@ -1,0 +1,10 @@
+.header {
+    background-image: linear-gradient(to top,
+            rgb(20, 20, 20, 0.75),
+            rgb(20, 20, 20, 0.75)),
+        url(../Header/header.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}

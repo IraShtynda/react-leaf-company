@@ -1,0 +1,19 @@
+.contact-data {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 2fr;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.contact-data-title {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.contact-data-text {
+    white-space: pre-wrap;
+    font-size: 17px;
+    line-height: 26px;
+}

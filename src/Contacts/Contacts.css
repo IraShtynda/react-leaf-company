@@ -1,0 +1,45 @@
+.contacts {
+    background-color: var(--background-bottom-color);
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.contacts .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+.contacts-title {
+    font-size: 44px;
+    line-height: 48px;
+    margin-bottom: 25px;
+}
+
+.contacts-text {
+    font-size: 19px;
+    line-height: 26px;
+    margin-bottom: 25px;
+}
+
+.contacts-form {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--background-card);
+    padding: 70px 65px;
+}
+
+.contact-input {
+    background-color: var(--background-color);
+    font-size: 15px;
+    line-height: 18px;
+    padding: 16px 25px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: none;
+    border-bottom: 1px solid var(--brand-color);
+}
+
+.btn-submit {
+    background-color: var(--brand-color);
+}
