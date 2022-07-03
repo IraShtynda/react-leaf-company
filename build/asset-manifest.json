@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.284e6c05.css",
-    "main.js": "/static/js/main.5730414f.js",
-    "static/css/740.3a8f191d.chunk.css": "/static/css/740.3a8f191d.chunk.css",
-    "static/js/740.54da86e0.chunk.js": "/static/js/740.54da86e0.chunk.js",
-    "static/css/759.f2ce16c3.chunk.css": "/static/css/759.f2ce16c3.chunk.css",
-    "static/js/759.a5a36e25.chunk.js": "/static/js/759.a5a36e25.chunk.js",
-    "static/js/787.45056a62.chunk.js": "/static/js/787.45056a62.chunk.js",
-    "static/media/header.jpg": "/static/media/header.77f32ff5aaf89392659f.jpg",
-    "static/media/analytics.jpeg": "/static/media/analytics.a2572c80ca2af423cd29.jpeg",
-    "static/media/strategy.jpeg": "/static/media/strategy.a615abc5d00b45ba393d.jpeg",
-    "static/media/branding.jpeg": "/static/media/branding.2ea460c063ffca30365d.jpeg",
-    "index.html": "/index.html",
-    "main.284e6c05.css.map": "/static/css/main.284e6c05.css.map",
-    "main.5730414f.js.map": "/static/js/main.5730414f.js.map",
-    "740.3a8f191d.chunk.css.map": "/static/css/740.3a8f191d.chunk.css.map",
-    "740.54da86e0.chunk.js.map": "/static/js/740.54da86e0.chunk.js.map",
-    "759.f2ce16c3.chunk.css.map": "/static/css/759.f2ce16c3.chunk.css.map",
-    "759.a5a36e25.chunk.js.map": "/static/js/759.a5a36e25.chunk.js.map",
-    "787.45056a62.chunk.js.map": "/static/js/787.45056a62.chunk.js.map"
+    "main.css": "/leaf-company/static/css/main.f5834607.css",
+    "main.js": "/leaf-company/static/js/main.97f235fb.js",
+    "static/css/740.3a8f191d.chunk.css": "/leaf-company/static/css/740.3a8f191d.chunk.css",
+    "static/js/740.54da86e0.chunk.js": "/leaf-company/static/js/740.54da86e0.chunk.js",
+    "static/css/759.f2ce16c3.chunk.css": "/leaf-company/static/css/759.f2ce16c3.chunk.css",
+    "static/js/759.a5a36e25.chunk.js": "/leaf-company/static/js/759.a5a36e25.chunk.js",
+    "static/js/787.45056a62.chunk.js": "/leaf-company/static/js/787.45056a62.chunk.js",
+    "static/media/header.jpg": "/leaf-company/static/media/header.77f32ff5aaf89392659f.jpg",
+    "static/media/analytics.jpeg": "/leaf-company/static/media/analytics.a2572c80ca2af423cd29.jpeg",
+    "static/media/strategy.jpeg": "/leaf-company/static/media/strategy.a615abc5d00b45ba393d.jpeg",
+    "static/media/branding.jpeg": "/leaf-company/static/media/branding.2ea460c063ffca30365d.jpeg",
+    "index.html": "/leaf-company/index.html",
+    "main.f5834607.css.map": "/leaf-company/static/css/main.f5834607.css.map",
+    "main.97f235fb.js.map": "/leaf-company/static/js/main.97f235fb.js.map",
+    "740.3a8f191d.chunk.css.map": "/leaf-company/static/css/740.3a8f191d.chunk.css.map",
+    "740.54da86e0.chunk.js.map": "/leaf-company/static/js/740.54da86e0.chunk.js.map",
+    "759.f2ce16c3.chunk.css.map": "/leaf-company/static/css/759.f2ce16c3.chunk.css.map",
+    "759.a5a36e25.chunk.js.map": "/leaf-company/static/js/759.a5a36e25.chunk.js.map",
+    "787.45056a62.chunk.js.map": "/leaf-company/static/js/787.45056a62.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.284e6c05.css",
-    "static/js/main.5730414f.js"
+    "static/css/main.f5834607.css",
+    "static/js/main.97f235fb.js"
   ]
 }
