@@ -5,6 +5,8 @@ import Contact from './Contact/Contact';
 class Contacts extends React.Component {
     render() {
 
+        const adressTitle = 'Address';
+        const adressText = '999 Jamaica Ave, Brooklyn, \nNY 11208, USA';
         const hoursTitle = 'Hours';
         const hoursText = 'Monday - Saturday: 11 AM - 9 PM \nSunday: 11 AM - 7 PM';
         const contactsTitle = 'Contacts';
@@ -16,7 +18,7 @@ class Contacts extends React.Component {
                     <div className='contacts-content'>
                         <h2 className='contacts-title'>Contacts</h2>
                         <p className='contacts-text'>Though our website is under construction, you can always call us, write us or simply visit us. Fill out the form to get the best personalized offers by mail.</p>
-                        <Contact title={this.props.title} text={this.props.text}></Contact>
+                        <Contact title={adressTitle} text={adressText}></Contact>
                         <Contact title={hoursTitle} text={hoursText}></Contact>
                         <Contact title={contactsTitle} text={contactsText}></Contact>
                     </div>

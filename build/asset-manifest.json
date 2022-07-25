@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/leaf-company/static/css/main.f5834607.css",
-    "main.js": "/leaf-company/static/js/main.97f235fb.js",
+    "main.js": "/leaf-company/static/js/main.b43468e8.js",
     "static/css/740.3a8f191d.chunk.css": "/leaf-company/static/css/740.3a8f191d.chunk.css",
     "static/js/740.54da86e0.chunk.js": "/leaf-company/static/js/740.54da86e0.chunk.js",
     "static/css/759.f2ce16c3.chunk.css": "/leaf-company/static/css/759.f2ce16c3.chunk.css",
@@ -13,7 +13,7 @@
     "static/media/branding.jpeg": "/leaf-company/static/media/branding.2ea460c063ffca30365d.jpeg",
     "index.html": "/leaf-company/index.html",
     "main.f5834607.css.map": "/leaf-company/static/css/main.f5834607.css.map",
-    "main.97f235fb.js.map": "/leaf-company/static/js/main.97f235fb.js.map",
+    "main.b43468e8.js.map": "/leaf-company/static/js/main.b43468e8.js.map",
     "740.3a8f191d.chunk.css.map": "/leaf-company/static/css/740.3a8f191d.chunk.css.map",
     "740.54da86e0.chunk.js.map": "/leaf-company/static/js/740.54da86e0.chunk.js.map",
     "759.f2ce16c3.chunk.css.map": "/leaf-company/static/css/759.f2ce16c3.chunk.css.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.f5834607.css",
-    "static/js/main.97f235fb.js"
+    "static/js/main.b43468e8.js"
   ]
 }
